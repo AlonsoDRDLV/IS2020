@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="notepadv3" version="4">
+  <OBJECT>
+    <ID name="notepadv3" mc="Standard.Package" uid="81e9b874-70c1-45ae-9ac9-bdd6e4f4c241"/>
+    <PID name="eina" mc="Standard.Package" uid="6f4b1552-4956-45ba-9085-7148662424c2"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[notepadv3]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Notepadv1" mc="Standard.Class" uid="774e1508-241b-47ad-aa7c-9a02c8bd1bc5"/>
+        <COMPID name="NoteEdit" mc="Standard.Class" uid="e15e624e-8a28-4d5a-8efa-b119b8ae2784"/>
+        <COMPID name="NotesDbAdapter" mc="Standard.Class" uid="1cc6e75c-4c2b-43e7-b2fa-5f0706f53354"/>
+        <COMPID name="DatabaseHelper" mc="Standard.Class" uid="a6fc54f4-8e88-4257-bbd4-2062fdda5d91"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

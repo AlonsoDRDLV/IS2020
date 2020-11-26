@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="practica3" version="4">
+  <OBJECT>
+    <ID name="practica3" mc="Standard.Package" uid="55dfdfc7-14fa-4e39-8c77-3394b2d9f090"/>
+    <PID name="Practica3" mc="Standard.Project" uid="93555007-0597-40d9-8431-15438c1192b2"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[practica3]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="1-Inicializar" mc="Standard.Interaction" uid="aa0c44cf-b953-4a83-bba4-faf5bb542009"/>
+        <COMPID name="2-CrearNota" mc="Standard.Interaction" uid="b754c5d2-4c60-4813-b4ae-b88e3e6769a1"/>
+        <COMPID name="3-ActualizarNota" mc="Standard.Interaction" uid="4407a556-9088-4d54-950c-cfb31240b887"/>
+        <COMPID name="4-BorrarNota" mc="Standard.Interaction" uid="dbf21ade-0967-4f1c-a9a5-b550491b8f3f"/>
+        <COMPID name="5-BúsquedaNota" mc="Standard.Interaction" uid="5b24e93f-62c5-4a89-9424-f9672cc621da"/>
+        <COMPID name="6-BúsquedaNotas" mc="Standard.Interaction" uid="d968635b-2c13-4cf0-aa92-cc3dcc9211a5"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuario" mc="Standard.Actor" uid="e383b6b4-2091-4306-910b-9997a68838b0"/>
+        <COMPID name="Application" mc="Standard.Component" uid="9e65b73d-4569-4484-ab4a-417c4da0f558"/>
+        <COMPID name="Database" mc="Standard.Component" uid="65effae8-3ccf-4f10-9e67-aca7f03e2b99"/>
+        <COMPID name="AndroidDevice" mc="Standard.Node" uid="855fc5a1-9a55-45d5-a83a-b5b7f1bed418"/>
+        <COMPID name="app-debug.apk" mc="Standard.Artifact" uid="fe13576a-c7a5-4a15-a5ea-bf0c3216230d"/>
+        <COMPID name="SQLite" mc="Standard.Artifact" uid="7fc322ce-b58e-4560-9a9d-0fe2fe5ab2c9"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="practica3 Class diagram" mc="Standard.ClassDiagram" uid="19db66d8-8c82-4209-8968-7342f5f2c8dd"/>
+        <COMPID name="Package diagram" mc="Standard.ClassDiagram" uid="8f3de02e-a40c-42ec-8e0d-13a54dda9a0d"/>
+        <COMPID name="Component diagram" mc="Standard.ClassDiagram" uid="5072edcf-c2a0-4ce1-8c57-8b603a34d024"/>
+        <COMPID name="practica3 Deployment diagram" mc="Standard.DeploymentDiagram" uid="87cbfe28-7d6a-4131-b82f-c2623d1162e4"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

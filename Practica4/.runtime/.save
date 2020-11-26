@@ -1,0 +1,13 @@
+#Wed Nov 25 16:48:38 CET 2020
+org.modelio.app.diagram.editor.OpenedDiagrams4='Inicializaci\u00F3n' {f78161f7-aa44-44b8-b80d-02388341247a} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams3='Actualizaci\u00F3n' {27492d6c-218e-4d18-8ed2-4df2b49cba28} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams2='Creaci\u00F3n' {7069fd77-e6d6-4be4-8bf8-880c14046734} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams1='Borrado' {b430329b-e5b1-407d-b6a6-5bce9e7346a1} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams0='practica3 Class diagram' {19db66d8-8c82-4209-8968-7342f5f2c8dd} Standard.ClassDiagram
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///C\:/Users/AlonsoDRDLV/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///C\:/Users/AlonsoDRDLV/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///C\:/Users/AlonsoDRDLV/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///C\:/Users/AlonsoDRDLV/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
+org.modelio.app.diagram.editor.OpenedDiagrams7='practica3 Deployment diagram' {87cbfe28-7d6a-4131-b82f-c2623d1162e4} Standard.DeploymentDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams6='Component diagram' {5072edcf-c2a0-4ce1-8c57-8b603a34d024} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams5='Package diagram' {8f3de02e-a40c-42ec-8e0d-13a54dda9a0d} Standard.ClassDiagram

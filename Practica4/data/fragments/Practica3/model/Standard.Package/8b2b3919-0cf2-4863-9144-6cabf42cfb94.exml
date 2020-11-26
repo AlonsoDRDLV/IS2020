@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="content" version="4">
+  <OBJECT>
+    <ID name="content" mc="Standard.Package" uid="8b2b3919-0cf2-4863-9144-6cabf42cfb94"/>
+    <PID name="android" mc="Standard.Package" uid="d96c9a59-c8f1-482f-b8d0-926778c51557"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[content]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Context" mc="Standard.Class" uid="362bf9ff-122c-4e07-b39e-e252378822cd"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
