@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="practica3" version="4">
+  <OBJECT>
+    <ID name="practica3" mc="Standard.Package" uid="55dfdfc7-14fa-4e39-8c77-3394b2d9f090"/>
+    <PID name="Practica3" mc="Standard.Project" uid="93555007-0597-40d9-8431-15438c1192b2"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[practica3]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="b754c5d2-4c60-4813-b4ae-b88e3e6769a1"/>
+        <COMPID name="Interaction1" mc="Standard.Interaction" uid="dbf21ade-0967-4f1c-a9a5-b550491b8f3f"/>
+        <COMPID name="Interaction2" mc="Standard.Interaction" uid="4407a556-9088-4d54-950c-cfb31240b887"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Notepadv1" mc="Standard.Class" uid="774e1508-241b-47ad-aa7c-9a02c8bd1bc5"/>
+        <COMPID name="AppCompatActivity" mc="Standard.Class" uid="12e71cb6-c019-47da-b739-64a68faa2b45"/>
+        <COMPID name="ListView" mc="Standard.Class" uid="58463125-79b0-4fee-9cb0-a79d2bf74963"/>
+        <COMPID name="NotesDbAdapter" mc="Standard.Class" uid="1cc6e75c-4c2b-43e7-b2fa-5f0706f53354"/>
+        <COMPID name="Context" mc="Standard.Class" uid="362bf9ff-122c-4e07-b39e-e252378822cd"/>
+        <COMPID name="SQLiteDatabase" mc="Standard.Class" uid="9a926a32-1ab6-4251-a91b-db60a6a045b2"/>
+        <COMPID name="DatabaseHelper" mc="Standard.Class" uid="a6fc54f4-8e88-4257-bbd4-2062fdda5d91"/>
+        <COMPID name="SQLiteOpenHelper" mc="Standard.Class" uid="469d6c41-5fa2-432f-945c-d41f6f5a3de1"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="practica3 Class diagram" mc="Standard.ClassDiagram" uid="19db66d8-8c82-4209-8968-7342f5f2c8dd"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
