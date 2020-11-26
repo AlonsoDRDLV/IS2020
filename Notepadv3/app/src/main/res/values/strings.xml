@@ -10,5 +10,7 @@
     <string name="body">Body</string>
     <string name="confirm">Confirm</string>
     <string name="edit_note">Edit Note</string>
+    <string name="menu_email">Send as Email</string>
+    <string name="menu_sms">Send as SMS</string>
     <string name="title_activity_note_edit">EditNote</string>
 </resources>

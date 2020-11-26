@@ -9,8 +9,12 @@ import android.view.MenuItem;
 import android.database.Cursor;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.SimpleCursorAdapter;
+
+import es.unizar.eina.send.SendAbstraction;
+import es.unizar.eina.send.SendAbstractionImpl;
 
 
 public class Notepadv3 extends AppCompatActivity {
@@ -21,6 +25,8 @@ public class Notepadv3 extends AppCompatActivity {
     private static final int INSERT_ID = Menu.FIRST;
     private static final int DELETE_ID = Menu.FIRST + 1;
     private static final int EDIT_ID = Menu.FIRST + 2;
+    private static final int EMAIL_ID = Menu.FIRST + 3;
+    private static final int SMS_ID = Menu.FIRST + 4;
 
     private NotesDbAdapter mDbHelper;
     //private Cursor mNotesCursor;
@@ -84,6 +90,8 @@ public class Notepadv3 extends AppCompatActivity {
         super.onCreateContextMenu(menu, v, menuInfo);
         menu.add(Menu.NONE, DELETE_ID, Menu.NONE, R.string.menu_delete);
         menu.add(Menu.NONE, EDIT_ID, Menu.NONE, R.string.menu_edit);
+        menu.add(Menu.NONE, EMAIL_ID, Menu.NONE, R.string.menu_email);
+        menu.add(Menu.NONE, SMS_ID, Menu.NONE, R.string.menu_sms);
     }
 
     @Override
@@ -97,6 +105,30 @@ public class Notepadv3 extends AppCompatActivity {
             case EDIT_ID:
                 info = (AdapterView.AdapterContextMenuInfo) item.getMenuInfo();
                 editNote(info.position, info.id);
+                return true;
+            case EMAIL_ID:
+                info = (AdapterView.AdapterContextMenuInfo) item.getMenuInfo();
+                Cursor note = mDbHelper.fetchNote(info.id);
+                startManagingCursor(note);
+                String title = note.getString(
+                        note.getColumnIndexOrThrow(NotesDbAdapter.KEY_TITLE));
+                String body = note.getString(
+                        note.getColumnIndexOrThrow(NotesDbAdapter.KEY_BODY));
+                System.out.println(title);
+                System.out.println(body);
+                SendAbstraction s = new SendAbstractionImpl(this, "MAIL");
+                s.send(title, body);
+                return true;
+            case SMS_ID:
+                info = (AdapterView.AdapterContextMenuInfo) item.getMenuInfo();
+                note = mDbHelper.fetchNote(info.id);
+                startManagingCursor(note);
+                title = note.getString(
+                        note.getColumnIndexOrThrow(NotesDbAdapter.KEY_TITLE));
+                body = note.getString(
+                        note.getColumnIndexOrThrow(NotesDbAdapter.KEY_BODY));
+                s = new SendAbstractionImpl(this, "SMS");
+                s.send(title, body);
                 return true;
         }
         return super.onContextItemSelected(item);
