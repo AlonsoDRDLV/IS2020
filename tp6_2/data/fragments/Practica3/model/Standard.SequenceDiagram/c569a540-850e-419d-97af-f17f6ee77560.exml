@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="VisualizarProductosOrdenados" version="4">
+  <OBJECT>
+    <ID name="VisualizarProductosOrdenados" mc="Standard.SequenceDiagram" uid="c569a540-850e-419d-97af-f17f6ee77560"/>
+    <PID name="VisualizarProductosOrdeandos" mc="Standard.Interaction" uid="655abb85-666a-484e-9a3a-b4610ac3c444"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">1</ATT>
+      <ATT name="UiData"><![CDATA[eJztU11P4zAQ/CtW3uum0I+rFIqgQVVFoKjlTrontI23xeDYPduB5t9jk5Sj5VrlJHS83JOtXc/uzHo2Ol1ngjyhNlzJk6BFw4CcDqLJ/AFTSzhzoYDYYoUngdJLmimGgiuaZ4Ia/JWjTJFxWGrIqLtYpSkKzFBa8yE/ymZVJC4jAcngQem7t+5hMIhutFqhtgWRkLmmAgqV2xgsuNwPEDlWbGQuRNAcRM0N4AN0ZguBwZaWoz9p2fAz/r2hqdJIS2wNfkMwKTBkm2YXazvFRc0u165EhSS4tvF87Di+Xv3lqkSSY7reEdosJR0Sr1GARea47MztyofIk4/4EYFkoBnd+RmSdrp96LTDxrdOiI12q88a/R4sGotWb9FF7PU63fDw9AUYeynVs0xgjmKHxMxqLpfBYCwtakitmy7ZUCDVpKLmK+KgSCVwLIcqWynDfZE9bWqUGt5zwTT6Cgk3frTVsReRcPlo6j8/X8Yanh2dBArU27Y8PmTLt31iJd5Q4Su4ddoq+G926e9QX25CzvY4Ih7R5OznxfTu/Gx4OZpOvl/Hn2OSGqv5/tt+G+idHdr/7fBVdrid3Hy2D/amXgD87puH]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="Name"><![CDATA[VisualizarProductosOrdenados]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

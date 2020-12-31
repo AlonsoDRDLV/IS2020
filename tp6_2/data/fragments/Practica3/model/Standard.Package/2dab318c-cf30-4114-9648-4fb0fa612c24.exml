@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Analisis" version="4">
+  <OBJECT>
+    <ID name="Analisis" mc="Standard.Package" uid="2dab318c-cf30-4114-9648-4fb0fa612c24"/>
+    <PID name="Practica3" mc="Standard.Project" uid="93555007-0597-40d9-8431-15438c1192b2"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Analisis]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="CrearLista" mc="Standard.Interaction" uid="ca179f5e-30e4-41db-a98d-cf5cb3e1972c"/>
+        <COMPID name="ActualizarLista (añadir producto)" mc="Standard.Interaction" uid="cd25a86b-fda1-4c5f-a8e9-0d5f703808ff"/>
+        <COMPID name="BorrarLista" mc="Standard.Interaction" uid="9f21e331-010f-43d2-bd67-025fa3c7d495"/>
+        <COMPID name="BuscarListas" mc="Standard.Interaction" uid="878c1496-30d3-49bf-ba3c-e6f8f1fb2d02"/>
+        <COMPID name="CrearProducto" mc="Standard.Interaction" uid="161ab119-c734-4159-ae5c-65a2df26f87a"/>
+        <COMPID name="EliminarProducto" mc="Standard.Interaction" uid="f0339b44-b700-4d6c-8640-63d6b3946192"/>
+        <COMPID name="ActualizarProducto" mc="Standard.Interaction" uid="21a70bc6-7738-419b-93b7-9eb23353c968"/>
+        <COMPID name="VisualizarProducto" mc="Standard.Interaction" uid="580e5d14-8d85-460d-ac7b-2ab8be5b2269"/>
+        <COMPID name="VisualizarProductosOrdeandos" mc="Standard.Interaction" uid="ca3b33bd-bcb7-4007-87ed-da09ab4c3ca0"/>
+        <COMPID name="VisualizarListasOrdenadas" mc="Standard.Interaction" uid="9966626a-0a03-4540-8cd8-11dec1aaa1f2"/>
+        <COMPID name="EnviarListaMail" mc="Standard.Interaction" uid="e0666e50-35d5-4b8a-a76a-53461f8abf90"/>
+        <COMPID name="PrecioPesoLista" mc="Standard.Interaction" uid="3a50bca3-e281-45ab-ac8a-9fe831605774"/>
+        <COMPID name="ActualizarLista (eliminar producto)" mc="Standard.Interaction" uid="f505400b-c7a1-41c1-9630-914489ff5684"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuario" mc="Standard.Actor" uid="9acbe4fa-fd60-4782-8fd1-6e1b58c24a48"/>
+        <COMPID name="Producto" mc="Standard.Class" uid="b7eb42b4-faf7-48cc-91d6-9d6554b6f777"/>
+        <COMPID name="Lista" mc="Standard.Class" uid="e07dba78-8f7b-41ee-8a11-0471353c0391"/>
+        <COMPID name="Crear producto" mc="Standard.UseCase" uid="1cacf14c-bc07-4f8b-8a15-c47886f904f8"/>
+        <COMPID name="Editar producto" mc="Standard.UseCase" uid="5ac3816c-01bc-42c4-80e2-25511dcfc643"/>
+        <COMPID name="Eliminar producto" mc="Standard.UseCase" uid="c65a6249-f587-4aa7-bf2c-0af7fbba4d6f"/>
+        <COMPID name="Conocer productos creados" mc="Standard.UseCase" uid="77c90e7b-7988-4010-b25e-033c7657d5a3"/>
+        <COMPID name="Crear lista de la compra" mc="Standard.UseCase" uid="40f340b9-cb7b-4053-9911-6a7171c69924"/>
+        <COMPID name="Editar lista de la compra" mc="Standard.UseCase" uid="6ffb62fa-14ec-4b4b-9c70-fd42be242914"/>
+        <COMPID name="Eliminar lista de la compra" mc="Standard.UseCase" uid="95e7ab1d-8c91-4035-b5a2-7a19fee60975"/>
+        <COMPID name="Conocer listas de la compra creadas" mc="Standard.UseCase" uid="00b7b104-31a4-4c27-8169-29092ed5785a"/>
+        <COMPID name="Enviar por correo una lista" mc="Standard.UseCase" uid="d0be1d49-7f8c-4931-8509-b1166d8f731b"/>
+        <COMPID name="Ordenar productos" mc="Standard.UseCase" uid="ad5780cb-ed8a-4230-868f-9ade148e66ec"/>
+        <COMPID name="Ordenar listas de la compra" mc="Standard.UseCase" uid="9cff0e11-8d1b-42ec-8211-580b8911aae5"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="DiagramaClases" mc="Standard.ClassDiagram" uid="29c014dd-9964-4681-ac7e-68bc67f7bbe7"/>
+        <COMPID name="tp6 Use Case diagram" mc="Standard.UseCaseDiagram" uid="db47b4bd-4f8a-4f2f-8771-f53810653d24"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

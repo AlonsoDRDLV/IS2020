@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="EnviarListaMail" version="4">
+  <OBJECT>
+    <ID name="EnviarListaMail" mc="Standard.Interaction" uid="1e71bfca-58ae-46a0-8e2a-923a7149f763"/>
+    <PID name="tp6" mc="Standard.Package" uid="47b509ff-9386-447a-98fa-9499f3ef7782"/>
+    <ATTRIBUTES>
+      <ATT name="IsReentrant">false</ATT>
+      <ATT name="Name"><![CDATA[EnviarListaMail]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedCollaboration">
+        <OBJECT>
+          <ID name="locals" mc="Standard.Collaboration" uid="5d522345-b425-4b1d-8038-0011f83bf6c8"/>
+          <ATTRIBUTES>
+            <ATT name="IsConcurrent">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[locals]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES></DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="EnviarListaMail" mc="Standard.SequenceDiagram" uid="e85506f6-95b6-4bbb-a64e-cf445c7ce5a4"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

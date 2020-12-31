@@ -1,0 +1,20 @@
+#Thu Dec 31 19:56:17 CET 2020
+org.modelio.app.diagram.editor.OpenedDiagrams13='PrecioPesoLista' {fbd4169b-6dc1-4362-8604-beada8113c6c} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams5='BorrarLista' {cb358761-f00c-4750-9247-ca4b0cde82bc} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams12='ConocerProductosOrdenados' {5f450821-d4ae-4b89-a66e-c6ba4cafe117} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams4='A\u00F1adirProducto' {a27aba16-2ee5-4b1a-a0a1-e8f7dfe3b401} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams11='conocerProductos' {bf33bd78-e82b-4576-91ca-44ab6db9c4d8} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams3='crearLista' {10907194-b0d4-49c4-890a-76d4348579bd} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams10='ActualizarProducto' {c895c7ff-1de5-4ebc-bb21-e9656c18aabf} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams2='DiagramaClases' {29c014dd-9964-4681-ac7e-68bc67f7bbe7} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams1='EnviarListaMail' {3468a35e-1763-4330-b3da-1b50f9c4c870} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams0='ConocerListasOrdenadas' {270e3c22-b0c6-4b66-b7fb-0e05ff7a8751} Standard.SequenceDiagram
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///C\:/Users/AlonsoDRDLV/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///C\:/Users/AlonsoDRDLV/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///C\:/Users/AlonsoDRDLV/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
+org.modelio.app.diagram.editor.OpenedDiagrams9='EliminarProducto' {fbf63e3b-19e2-4c1e-9ff3-62940b67885d} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams8='Crear Producto' {53f31d2a-a5b2-42f3-89b7-545b958e4940} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams7='EliminarProducto' {9b444fde-4d43-475c-9b6d-e720e9c2117c} Standard.SequenceDiagram
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///C\:/Users/AlonsoDRDLV/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
+org.modelio.app.diagram.editor.OpenedDiagrams14='DiagramaClasesImpl' {80c10178-03a2-4e4a-826a-e9680c75177d} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams6='tp6 Use Case diagram' {db47b4bd-4f8a-4f2f-8771-f53810653d24} Standard.UseCaseDiagram

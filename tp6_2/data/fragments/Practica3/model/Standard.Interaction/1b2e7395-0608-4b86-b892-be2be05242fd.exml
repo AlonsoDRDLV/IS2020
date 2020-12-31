@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="VisualizarListasOrdenadas" version="4">
+  <OBJECT>
+    <ID name="VisualizarListasOrdenadas" mc="Standard.Interaction" uid="1b2e7395-0608-4b86-b892-be2be05242fd"/>
+    <PID name="tp6" mc="Standard.Package" uid="47b509ff-9386-447a-98fa-9499f3ef7782"/>
+    <ATTRIBUTES>
+      <ATT name="IsReentrant">false</ATT>
+      <ATT name="Name"><![CDATA[VisualizarListasOrdenadas]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedCollaboration">
+        <OBJECT>
+          <ID name="locals" mc="Standard.Collaboration" uid="49e9d211-9a26-46c8-9550-c526124c4205"/>
+          <ATTRIBUTES>
+            <ATT name="IsConcurrent">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[locals]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES></DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="VisualizarListasOrdenadas" mc="Standard.SequenceDiagram" uid="8f0f1348-27dd-4681-b31d-0fb1019c023b"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
