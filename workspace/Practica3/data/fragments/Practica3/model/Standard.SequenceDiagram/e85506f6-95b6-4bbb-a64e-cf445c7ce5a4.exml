@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="EnviarListaMail" version="4">
+  <OBJECT>
+    <ID name="EnviarListaMail" mc="Standard.SequenceDiagram" uid="e85506f6-95b6-4bbb-a64e-cf445c7ce5a4"/>
+    <PID name="EnviarListaMail" mc="Standard.Interaction" uid="1e71bfca-58ae-46a0-8e2a-923a7149f763"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">1</ATT>
+      <ATT name="UiData"><![CDATA[eJztU1FP2zAQ/iuW3+t2IymbFIqgQVVFoKgdSHtCl/haDI7d2Q40/34OSRkta5VJaLzwZOvO3933nb+Ljle5JI9orNDqiH5hPUqOB9EkvcfMEcF9iBJXLvGIarNgueYohWZFLpnFXwWqDLmAhYGc+YvThqHEHJWzb/KjfNZE4jpCSQ732ty+dO/RQXRl9BKNK4mC3DeVUOrCxeDA525AFtiwUYWUtDuIumvAG+jMlRLphpavf9Oy5mer95Zl2iCrsS34DcFmwJGvm52t3BTnLbtc+hINkuDKxenYc3y+VpeLGkkO2GpLaLeWtE+8QQkOueeyNbeLKkQeq0g1IlAcDGdbP0PwWxj2+vN+53uY9jtBmqYd6AfYyeZBEGaHGYYQ7J++BOvOlX5SCaQot0jMnBFqQQdj5dBA5vx0yZoCaSYVdZ8Re0VqiWM11PlSW1EV2dGmRanhnZDcYFUhEbYabXPsRCRCPdj2z08XsYEnTyeBEs2mLQ/22fJln3iNt0xWFfw6bRT8P7v0b6gPN6HgOxwRj1hy8vNsent6MjwfTSfXl/H7mKTFar7+tj8GemWH4NMOH2WHH5Or9/bBztRvHPOdnQ==]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="Name"><![CDATA[EnviarListaMail]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

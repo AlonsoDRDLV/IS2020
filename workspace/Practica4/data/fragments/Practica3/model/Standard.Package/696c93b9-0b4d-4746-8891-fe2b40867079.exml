@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="send" version="4">
+  <OBJECT>
+    <ID name="send" mc="Standard.Package" uid="696c93b9-0b4d-4746-8891-fe2b40867079"/>
+    <PID name="eina" mc="Standard.Package" uid="6f4b1552-4956-45ba-9085-7148662424c2"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[send]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="SendAbstractionImpl" mc="Standard.Class" uid="155ea686-4da1-4a0e-9f5c-5812d6906fb2"/>
+        <COMPID name="MailImplementor" mc="Standard.Class" uid="b8829a84-a67a-4377-89d5-6018bef5ee8c"/>
+        <COMPID name="SMSImplementor" mc="Standard.Class" uid="6ec13f8a-3c03-4eb7-8be3-a761d4d9285e"/>
+        <COMPID name="SendAbstraction" mc="Standard.Interface" uid="b6c2079f-9206-4566-95cd-836b36f380e4"/>
+        <COMPID name="SendImplementor" mc="Standard.Interface" uid="20ce5df2-401f-47c1-8e5c-67ed46b33ab1"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

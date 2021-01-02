@@ -7,8 +7,13 @@
       <root url="file://$USER_HOME$/.android/build-cache/07da601e1690095780385a5bf0f1057a58b3128a/output/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.android/build-cache/07da601e1690095780385a5bf0f1057a58b3128a/output/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.android/build-cache/07da601e1690095780385a5bf0f1057a58b3128a/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/45aad05e03b3dce6a50d664bd65fa72ffc52c71a/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/45aad05e03b3dce6a50d664bd65fa72ffc52c71a/output/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/45aad05e03b3dce6a50d664bd65fa72ffc52c71a/output/AndroidManifest.xml" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/23.1.0/99c3503b8731c85d1c0b47d6c5aabf7fd096a632/appcompat-v7-23.1.0-javadoc.jar!/" />
+    </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/23.1.0/ecf2015bc5a7d29799a33f85cc24977549ee3992/appcompat-v7-23.1.0-sources.jar!/" />
     </SOURCES>

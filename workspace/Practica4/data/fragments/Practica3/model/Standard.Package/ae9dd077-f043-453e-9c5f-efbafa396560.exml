@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="unizar" version="4">
+  <OBJECT>
+    <ID name="unizar" mc="Standard.Package" uid="ae9dd077-f043-453e-9c5f-efbafa396560"/>
+    <PID name="es" mc="Standard.Package" uid="2546f864-3a6a-407c-8545-4b14c76cde05"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[unizar]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="eina" mc="Standard.Package" uid="6f4b1552-4956-45ba-9085-7148662424c2"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

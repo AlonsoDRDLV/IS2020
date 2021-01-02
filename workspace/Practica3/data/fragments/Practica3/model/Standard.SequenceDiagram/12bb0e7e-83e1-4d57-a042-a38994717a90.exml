@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="PrecioPesoLista" version="4">
+  <OBJECT>
+    <ID name="PrecioPesoLista" mc="Standard.SequenceDiagram" uid="12bb0e7e-83e1-4d57-a042-a38994717a90"/>
+    <PID name="PrecioPesoLista" mc="Standard.Interaction" uid="97b6ab14-fa7e-41ee-af59-03dc56313876"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">1</ATT>
+      <ATT name="UiData"><![CDATA[eJztU11P4zAQ/CtW3uumH6dSKRRBg6qKQFF7d9I9oU289AyOXWwHmn+PTVKOlmuVk9DxwpOtXc/uzHo2OlnngjyiNlzJ46BDw4CcjKJZeoeZJZy5UEBsucLjQOklzRVDwRUtckENPhQoM2Qclhpy6i5WaYoCc5TWvMtP8kUdiatIQHK4U/rmtXsYjKJrrVaobUkk5K6pgFIVNgYLLvcTRIE1G1kIEbRHUXsDeAdd2FJgsKWl+zctG37Gvzc0UxpphW3AbwwmA4Zs0+x8bed427DLlStRIwmubZxOHceXq79cVkjSo+sdoe1K0iHxGgVYZI7LztwufYg8+ogfEUgGmtGdnyGdbpqGOMDWUQ87rT77NmhB2O+2oHc0HPYHnQEMw8PTF2DshVRPMoEUxQ6JhdVcLoPRVFrUkFk3XbKhQOpJRe0XxEGRSuBUjlW+Uob7InvaNCg1/s0F0+grJNz40dbHXkTC5b1p/vxsGWt4cnQSKFFv27J3yJav+8QqvKHCV3DrtFXw/+zSv6E+3YSc7XFEPKHJ6a/z+c3Z6fhiMp/9uIo/xiQNVvPtt/0x0Bs79L/s8Fl2+D67/mgf7E09A4cNmqk=]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="Name"><![CDATA[PrecioPesoLista]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="android" version="4">
+  <OBJECT>
+    <ID name="android" mc="Standard.Package" uid="d96c9a59-c8f1-482f-b8d0-926778c51557"/>
+    <PID name="Application" mc="Standard.Component" uid="9e65b73d-4569-4484-ab4a-417c4da0f558"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[android]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="support" mc="Standard.Package" uid="c14d86ad-8a80-4231-8e14-347c2006cbd6"/>
+        <COMPID name="widget" mc="Standard.Package" uid="1911e41f-4e62-4f7e-8718-d85d483425fb"/>
+        <COMPID name="database" mc="Standard.Package" uid="2cbd67aa-fa39-409e-aedc-58cee9e5d9c9"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

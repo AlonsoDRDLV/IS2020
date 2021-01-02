@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="tp6Bueno" version="4">
+  <OBJECT>
+    <ID name="tp6Bueno" mc="Standard.Package" uid="2dab318c-cf30-4114-9648-4fb0fa612c24"/>
+    <PID name="Practica3" mc="Standard.Project" uid="93555007-0597-40d9-8431-15438c1192b2"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[tp6Bueno]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="InicializaciarApp" mc="Standard.Interaction" uid="76ff8b8b-aee8-4333-80e6-f01d5dae76d4"/>
+        <COMPID name="CrearLista" mc="Standard.Interaction" uid="ca179f5e-30e4-41db-a98d-cf5cb3e1972c"/>
+        <COMPID name="ActualizarLista" mc="Standard.Interaction" uid="cd25a86b-fda1-4c5f-a8e9-0d5f703808ff"/>
+        <COMPID name="BorrarLista" mc="Standard.Interaction" uid="9f21e331-010f-43d2-bd67-025fa3c7d495"/>
+        <COMPID name="BuscarListas" mc="Standard.Interaction" uid="878c1496-30d3-49bf-ba3c-e6f8f1fb2d02"/>
+        <COMPID name="CrearProducto" mc="Standard.Interaction" uid="161ab119-c734-4159-ae5c-65a2df26f87a"/>
+        <COMPID name="EliminarProducto" mc="Standard.Interaction" uid="f0339b44-b700-4d6c-8640-63d6b3946192"/>
+        <COMPID name="ActualizarProducto" mc="Standard.Interaction" uid="21a70bc6-7738-419b-93b7-9eb23353c968"/>
+        <COMPID name="VisualizarProducto" mc="Standard.Interaction" uid="580e5d14-8d85-460d-ac7b-2ab8be5b2269"/>
+        <COMPID name="VisualizarProductosOrdeandos" mc="Standard.Interaction" uid="ca3b33bd-bcb7-4007-87ed-da09ab4c3ca0"/>
+        <COMPID name="VisualizarListasOrdenadas" mc="Standard.Interaction" uid="9966626a-0a03-4540-8cd8-11dec1aaa1f2"/>
+        <COMPID name="EnviarListaMail" mc="Standard.Interaction" uid="e0666e50-35d5-4b8a-a76a-53461f8abf90"/>
+        <COMPID name="PrecioPesoLista" mc="Standard.Interaction" uid="3a50bca3-e281-45ab-ac8a-9fe831605774"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuario" mc="Standard.Actor" uid="9acbe4fa-fd60-4782-8fd1-6e1b58c24a48"/>
+        <COMPID name="Producto" mc="Standard.Class" uid="b7eb42b4-faf7-48cc-91d6-9d6554b6f777"/>
+        <COMPID name="Lista" mc="Standard.Class" uid="e07dba78-8f7b-41ee-8a11-0471353c0391"/>
+        <COMPID name="VisualizadorLista" mc="Standard.Class" uid="012f927c-6819-49b6-b5a2-5c263e8cfa07"/>
+        <COMPID name="VisualizadorProd" mc="Standard.Class" uid="6e20d85c-f55f-4a28-a2b3-619d2d81b5f3"/>
+        <COMPID name="Cantidad" mc="Standard.Class" uid="72bf0674-ddb1-44eb-bcbd-79a3f733e800"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="DiagramaClases" mc="Standard.ClassDiagram" uid="29c014dd-9964-4681-ac7e-68bc67f7bbe7"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

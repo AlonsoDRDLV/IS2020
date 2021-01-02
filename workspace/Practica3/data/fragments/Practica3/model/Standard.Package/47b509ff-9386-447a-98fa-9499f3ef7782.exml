@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="tp6" version="4">
+  <OBJECT>
+    <ID name="tp6" mc="Standard.Package" uid="47b509ff-9386-447a-98fa-9499f3ef7782"/>
+    <PID name="Practica3" mc="Standard.Project" uid="93555007-0597-40d9-8431-15438c1192b2"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[tp6]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="InicializaciarApp" mc="Standard.Interaction" uid="b028e0b1-7739-45b0-87a5-a2bd998a6fbe"/>
+        <COMPID name="CrearLista" mc="Standard.Interaction" uid="b3569251-e000-4a63-a9c0-bb56f273608c"/>
+        <COMPID name="ActualizarLista" mc="Standard.Interaction" uid="38c61c84-70f5-46a3-b05b-3635196e0534"/>
+        <COMPID name="BorrarLista" mc="Standard.Interaction" uid="347a5e4e-3f93-4f11-862e-94d4951c2f7e"/>
+        <COMPID name="BuscarLista" mc="Standard.Interaction" uid="c839dcb2-f4e2-4d15-a2f8-4ee7bc762d18"/>
+        <COMPID name="BuscarListas" mc="Standard.Interaction" uid="4eec9b04-7313-4af3-835f-4dbbcd3ee48b"/>
+        <COMPID name="CrearProducto" mc="Standard.Interaction" uid="491930e2-2516-481b-80d8-fb745ee3f585"/>
+        <COMPID name="EliminarProducto" mc="Standard.Interaction" uid="716a7e5b-b00f-4ca8-b851-fb9501cc6ffc"/>
+        <COMPID name="ActualizarProducto" mc="Standard.Interaction" uid="90ed9d52-e8d1-43e8-bd47-07438df84480"/>
+        <COMPID name="VisualizarProducto" mc="Standard.Interaction" uid="ff80d1de-114b-4789-8cbc-55c97188bb34"/>
+        <COMPID name="VisualizarProductosOrdeandos" mc="Standard.Interaction" uid="655abb85-666a-484e-9a3a-b4610ac3c444"/>
+        <COMPID name="VisualizarListasOrdenadas" mc="Standard.Interaction" uid="1b2e7395-0608-4b86-b892-be2be05242fd"/>
+        <COMPID name="EnviarListaMail" mc="Standard.Interaction" uid="1e71bfca-58ae-46a0-8e2a-923a7149f763"/>
+        <COMPID name="PrecioPesoLista" mc="Standard.Interaction" uid="97b6ab14-fa7e-41ee-af59-03dc56313876"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="ShoppingListPad" mc="Standard.Class" uid="34c2a3e0-e5dc-48e0-94f3-66cf348f88c1"/>
+        <COMPID name="AppCompatActivity" mc="Standard.Class" uid="d8ea91b1-75e1-4db9-96ae-3e33dea79d6d"/>
+        <COMPID name="ListView" mc="Standard.Class" uid="0e6d2486-26eb-4306-a095-4ada12586936"/>
+        <COMPID name="ShoppingListsDbAdapter" mc="Standard.Class" uid="47a33071-0d2e-48d2-b105-c6a133c72407"/>
+        <COMPID name="Context" mc="Standard.Class" uid="14bd2caf-7d96-43f1-ae77-8e77d5680edb"/>
+        <COMPID name="SQLiteDatabase" mc="Standard.Class" uid="092eb2cb-d2a8-421a-9736-37d73e9b18b4"/>
+        <COMPID name="DatabaseHelper" mc="Standard.Class" uid="1ac80184-2457-4962-9507-df2fe14f1db5"/>
+        <COMPID name="SQLiteOpenHelper" mc="Standard.Class" uid="0e44e900-fa33-465d-9aa1-ea55a1ad0fc2"/>
+        <COMPID name="Usuario" mc="Standard.Actor" uid="598d6871-4f3c-433c-a243-8a2ca74a3ab5"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="DiagramaClasesImpl" mc="Standard.ClassDiagram" uid="80c10178-03a2-4e4a-826a-e9680c75177d"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
