@@ -24,7 +24,6 @@
       <COMP relation="OwnedElement">
         <COMPID name="Notepadv1" mc="Standard.Class" uid="774e1508-241b-47ad-aa7c-9a02c8bd1bc5"/>
         <COMPID name="AppCompatActivity" mc="Standard.Class" uid="12e71cb6-c019-47da-b739-64a68faa2b45"/>
-        <COMPID name="ListView" mc="Standard.Class" uid="58463125-79b0-4fee-9cb0-a79d2bf74963"/>
         <COMPID name="NotesDbAdapter" mc="Standard.Class" uid="1cc6e75c-4c2b-43e7-b2fa-5f0706f53354"/>
         <COMPID name="Context" mc="Standard.Class" uid="362bf9ff-122c-4e07-b39e-e252378822cd"/>
         <COMPID name="SQLiteDatabase" mc="Standard.Class" uid="9a926a32-1ab6-4251-a91b-db60a6a045b2"/>

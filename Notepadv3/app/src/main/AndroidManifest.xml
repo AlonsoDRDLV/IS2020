@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="es.unizar.eina.notepadv3" >
+    package="es.unizar.eina.listasCompra" >
     <uses-permission android:name="android.permission.SEND_SMS" />
     <application
         android:allowBackup="true"
@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".Notepadv3"
+            android:name=".InitActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,13 +17,54 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="es.unizar.eina.notepadv3.NoteEdit"
-            android:label="@string/title_activity_note_edit"
-            android:parentActivityName=".Notepadv3" >
+            android:name="es.unizar.eina.listasCompra.ProductsActivity"
+            android:label="@string/title_activity_products"
+            android:parentActivityName=".InitActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".Notepadv3" />
+                android:value=".InitActivity" />
         </activity>
+        <activity
+            android:name="es.unizar.eina.listasCompra.ProductEdit"
+            android:label="@string/title_activity_products_edit"
+            android:parentActivityName=".ProductsActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ProductsActivity" />
+        </activity>
+        <activity
+            android:name="es.unizar.eina.listasCompra.ProductDetails"
+            android:label="@string/title_activity_products_edit"
+            android:parentActivityName=".ProductsActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ProductsActivity" />
+        </activity>
+        <activity
+            android:name="es.unizar.eina.listasCompra.ListsActivity"
+            android:label="@string/title_activity_lists"
+            android:parentActivityName=".InitActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".InitActivity" />
+        </activity>
+        <activity
+            android:name="es.unizar.eina.listasCompra.ListEdit"
+            android:label="@string/title_activity_lists_edit"
+            android:parentActivityName=".ListsActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ListsActivity" />
+        </activity>
+        <activity
+            android:name="es.unizar.eina.listasCompra.AddToList"
+            android:label="@string/title_activity_lists_edit"
+            android:parentActivityName=".ListEdit" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ListEdit" />
+        </activity>
+
     </application>
 
 </manifest>

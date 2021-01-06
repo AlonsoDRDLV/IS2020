@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="BorrarLista" version="4">
   <OBJECT>
     <ID name="BorrarLista" mc="Standard.Interaction" uid="347a5e4e-3f93-4f11-862e-94d4951c2f7e"/>
-    <PID name="tp6" mc="Standard.Package" uid="47b509ff-9386-447a-98fa-9499f3ef7782"/>
+    <PID name="Diseño" mc="Standard.Package" uid="47b509ff-9386-447a-98fa-9499f3ef7782"/>
     <ATTRIBUTES>
       <ATT name="IsReentrant">false</ATT>
       <ATT name="Name"><![CDATA[BorrarLista]]></ATT>
@@ -342,11 +342,7 @@
                   <ATT name="Name"><![CDATA[r]]></ATT>
                   <ATT name="status">1970354901745664</ATT>
                 </ATTRIBUTES>
-                <DEPENDENCIES>
-                  <LINK relation="Base">
-                    <ID name="ShoppingListPad" mc="Standard.Class" uid="34c2a3e0-e5dc-48e0-94f3-66cf348f88c1"/>
-                  </LINK>
-                </DEPENDENCIES>
+                <DEPENDENCIES></DEPENDENCIES>
               </OBJECT>
               <OBJECT>
                 <ID name="r1" mc="Standard.BindableInstance" uid="91dd4e1c-02de-4f59-bf1f-c06e9e8098f1"/>

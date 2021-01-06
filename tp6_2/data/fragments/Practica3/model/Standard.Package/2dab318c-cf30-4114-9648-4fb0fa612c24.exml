@@ -21,9 +21,9 @@
         <COMPID name="CrearProducto" mc="Standard.Interaction" uid="161ab119-c734-4159-ae5c-65a2df26f87a"/>
         <COMPID name="EliminarProducto" mc="Standard.Interaction" uid="f0339b44-b700-4d6c-8640-63d6b3946192"/>
         <COMPID name="ActualizarProducto" mc="Standard.Interaction" uid="21a70bc6-7738-419b-93b7-9eb23353c968"/>
-        <COMPID name="VisualizarProducto" mc="Standard.Interaction" uid="580e5d14-8d85-460d-ac7b-2ab8be5b2269"/>
-        <COMPID name="VisualizarProductosOrdeandos" mc="Standard.Interaction" uid="ca3b33bd-bcb7-4007-87ed-da09ab4c3ca0"/>
-        <COMPID name="VisualizarListasOrdenadas" mc="Standard.Interaction" uid="9966626a-0a03-4540-8cd8-11dec1aaa1f2"/>
+        <COMPID name="ConocerProductos" mc="Standard.Interaction" uid="580e5d14-8d85-460d-ac7b-2ab8be5b2269"/>
+        <COMPID name="ConocerProductosOrdeandos" mc="Standard.Interaction" uid="ca3b33bd-bcb7-4007-87ed-da09ab4c3ca0"/>
+        <COMPID name="ConocerListasOrdenadas" mc="Standard.Interaction" uid="9966626a-0a03-4540-8cd8-11dec1aaa1f2"/>
         <COMPID name="EnviarListaMail" mc="Standard.Interaction" uid="e0666e50-35d5-4b8a-a76a-53461f8abf90"/>
         <COMPID name="PrecioPesoLista" mc="Standard.Interaction" uid="3a50bca3-e281-45ab-ac8a-9fe831605774"/>
         <COMPID name="ActualizarLista (eliminar producto)" mc="Standard.Interaction" uid="f505400b-c7a1-41c1-9630-914489ff5684"/>
@@ -43,6 +43,7 @@
         <COMPID name="Enviar por correo una lista" mc="Standard.UseCase" uid="d0be1d49-7f8c-4931-8509-b1166d8f731b"/>
         <COMPID name="Ordenar productos" mc="Standard.UseCase" uid="ad5780cb-ed8a-4230-868f-9ade148e66ec"/>
         <COMPID name="Ordenar listas de la compra" mc="Standard.UseCase" uid="9cff0e11-8d1b-42ec-8211-580b8911aae5"/>
+        <COMPID name="Cantidad" mc="Standard.Class" uid="67b4c3de-268b-4777-b819-ef579cd3effe"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="DiagramaClases" mc="Standard.ClassDiagram" uid="29c014dd-9964-4681-ac7e-68bc67f7bbe7"/>

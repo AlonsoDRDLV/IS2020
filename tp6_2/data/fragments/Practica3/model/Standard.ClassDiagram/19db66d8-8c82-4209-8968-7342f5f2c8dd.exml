@@ -14,7 +14,6 @@
       <LINK relation="Represented">
         <ID name="Notepadv1" mc="Standard.Class" uid="774e1508-241b-47ad-aa7c-9a02c8bd1bc5"/>
         <ID name="AppCompatActivity" mc="Standard.Class" uid="12e71cb6-c019-47da-b739-64a68faa2b45"/>
-        <ID name="ListView" mc="Standard.Class" uid="58463125-79b0-4fee-9cb0-a79d2bf74963"/>
         <ID name="NotesDbAdapter" mc="Standard.Class" uid="1cc6e75c-4c2b-43e7-b2fa-5f0706f53354"/>
         <ID name="Context" mc="Standard.Class" uid="362bf9ff-122c-4e07-b39e-e252378822cd"/>
         <ID name="SQLiteDatabase" mc="Standard.Class" uid="9a926a32-1ab6-4251-a91b-db60a6a045b2"/>
@@ -34,12 +33,6 @@
         </REFOBJ>
         <REFOBJ>
           <ID name="onOptionsItemSelected" mc="Standard.Operation" uid="05012422-7b0c-45eb-b534-42902025f817"/>
-        </REFOBJ>
-        <REFOBJ>
-          <ID name="listView" mc="Standard.AssociationEnd" uid="fef6b4fa-652e-4217-ba74-1b4a42669c6c"/>
-        </REFOBJ>
-        <REFOBJ>
-          <ID name="" mc="Standard.AssociationEnd" uid="e57a493c-3166-4da8-a024-4d7a48ca844f"/>
         </REFOBJ>
         <REFOBJ>
           <ID name="" mc="Standard.AssociationEnd" uid="f9e6977b-dedb-4043-89eb-73cb78498a86"/>
@@ -133,9 +126,6 @@
         </REFOBJ>
         <REFOBJ>
           <ID name="fillData" mc="Standard.Operation" uid="6b3253f8-6f97-4b35-bc74-b8ce51d1df77"/>
-        </REFOBJ>
-        <REFOBJ>
-          <ID name="setAdapter" mc="Standard.Operation" uid="9d4fb379-ba2c-47e3-b386-248ffb2ed814"/>
         </REFOBJ>
         <REFOBJ>
           <ID name="insert" mc="Standard.Operation" uid="ca435512-3b65-45bc-937f-85aa9f82ffcd"/>

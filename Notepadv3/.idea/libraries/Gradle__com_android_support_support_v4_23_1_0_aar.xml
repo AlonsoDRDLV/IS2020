@@ -8,14 +8,8 @@
       <root url="jar://$USER_HOME$/.android/build-cache/44eff26b7fd0cddcb365e3f4956909dc0f67ff64/output/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.android/build-cache/44eff26b7fd0cddcb365e3f4956909dc0f67ff64/output/res" />
       <root url="jar://$USER_HOME$/.android/build-cache/44eff26b7fd0cddcb365e3f4956909dc0f67ff64/output/jars/libs/internal_impl-23.1.0.jar!/" />
-      <root url="jar://$USER_HOME$/.android/build-cache/7a363f96d8e8fab7562468b38df12b458e46e376/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/7a363f96d8e8fab7562468b38df12b458e46e376/output/res" />
-      <root url="file://$USER_HOME$/.android/build-cache/7a363f96d8e8fab7562468b38df12b458e46e376/output/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.android/build-cache/7a363f96d8e8fab7562468b38df12b458e46e376/output/jars/libs/internal_impl-23.1.0.jar!/" />
     </CLASSES>
-    <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-v4/23.1.0/81f059ce853fe84e7ec4e2136779c6058d6d49b8/support-v4-23.1.0-javadoc.jar!/" />
-    </JAVADOC>
+    <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-v4/23.1.0/a0dc85a93af5268f19b22013b9668bd433bc1946/support-v4-23.1.0-sources.jar!/" />
     </SOURCES>

@@ -30,15 +30,24 @@
         <COMPID name="PrecioPesoLista" mc="Standard.Interaction" uid="97b6ab14-fa7e-41ee-af59-03dc56313876"/>
       </COMP>
       <COMP relation="OwnedElement">
-        <COMPID name="ShoppingListPad" mc="Standard.Class" uid="34c2a3e0-e5dc-48e0-94f3-66cf348f88c1"/>
         <COMPID name="AppCompatActivity" mc="Standard.Class" uid="d8ea91b1-75e1-4db9-96ae-3e33dea79d6d"/>
         <COMPID name="ListView" mc="Standard.Class" uid="0e6d2486-26eb-4306-a095-4ada12586936"/>
         <COMPID name="ShoppingListsDbAdapter" mc="Standard.Class" uid="47a33071-0d2e-48d2-b105-c6a133c72407"/>
-        <COMPID name="Context" mc="Standard.Class" uid="14bd2caf-7d96-43f1-ae77-8e77d5680edb"/>
         <COMPID name="SQLiteDatabase" mc="Standard.Class" uid="092eb2cb-d2a8-421a-9736-37d73e9b18b4"/>
         <COMPID name="DatabaseHelper" mc="Standard.Class" uid="1ac80184-2457-4962-9507-df2fe14f1db5"/>
         <COMPID name="SQLiteOpenHelper" mc="Standard.Class" uid="0e44e900-fa33-465d-9aa1-ea55a1ad0fc2"/>
         <COMPID name="Usuario" mc="Standard.Actor" uid="598d6871-4f3c-433c-a243-8a2ca74a3ab5"/>
+        <COMPID name="InitActivity" mc="Standard.Class" uid="88257704-3752-4076-ba80-2432e86224e1"/>
+        <COMPID name="ProductsActivity" mc="Standard.Class" uid="5c3b6351-4b7f-4ec1-a673-06e0b209c668"/>
+        <COMPID name="ProductEditActivity" mc="Standard.Class" uid="51ea116e-227f-4714-809e-0b6076657fa4"/>
+        <COMPID name="ListEditActivity" mc="Standard.Class" uid="404da81e-aec1-41f9-9ac2-2dc15ca5ff67"/>
+        <COMPID name="AddToListActivity" mc="Standard.Class" uid="8dfb1b83-16fd-4c3b-8efd-22d1df597b79"/>
+        <COMPID name="ProductDetailsActivity" mc="Standard.Class" uid="efb9d8cf-0e28-449e-a30c-ddf3d2b2fd7f"/>
+        <COMPID name="Button" mc="Standard.Class" uid="42759103-c085-42ee-845b-41cf72779153"/>
+        <COMPID name="ListsActivity" mc="Standard.Class" uid="0c822a42-1482-4e01-bc71-b73cbd226e88"/>
+        <COMPID name="EditText" mc="Standard.Class" uid="73bea3aa-f9a9-4f24-958f-147b39138d25"/>
+        <COMPID name="TextView" mc="Standard.Class" uid="bd31ad3e-5cba-4a29-88f2-c6a52b4ee824"/>
+        <COMPID name="SendAbstraction" mc="Standard.Class" uid="120a6656-a80b-49c6-800b-6ed9ba7e2012"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="DiagramaClasesImpl" mc="Standard.ClassDiagram" uid="80c10178-03a2-4e4a-826a-e9680c75177d"/>

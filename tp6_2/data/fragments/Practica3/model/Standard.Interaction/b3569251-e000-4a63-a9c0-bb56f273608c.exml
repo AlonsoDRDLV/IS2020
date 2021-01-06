@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CrearLista" version="4">
   <OBJECT>
     <ID name="CrearLista" mc="Standard.Interaction" uid="b3569251-e000-4a63-a9c0-bb56f273608c"/>
-    <PID name="tp6" mc="Standard.Package" uid="47b509ff-9386-447a-98fa-9499f3ef7782"/>
+    <PID name="Diseño" mc="Standard.Package" uid="47b509ff-9386-447a-98fa-9499f3ef7782"/>
     <ATTRIBUTES>
       <ATT name="IsReentrant">false</ATT>
       <ATT name="Name"><![CDATA[CrearLista]]></ATT>
@@ -295,11 +295,6 @@
                       <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="0f27625e-3ab4-4ff5-8fa7-0d862b3610ce"/>
                     </REFOBJ>
                   </LINK>
-                  <LINK relation="Invoked">
-                    <REFOBJ>
-                      <ID name="onCreateOptionsMenu" mc="Standard.Operation" uid="77bdf533-22d6-438c-bd2f-c0b84482c6fe"/>
-                    </REFOBJ>
-                  </LINK>
                 </DEPENDENCIES>
               </OBJECT>
             </COMP>
@@ -423,11 +418,6 @@
                   <LINK relation="ReceiveEvent">
                     <REFOBJ>
                       <ID name="" mc="Standard.ExecutionOccurenceSpecification" uid="e3d07857-1cb7-451d-b365-a2e83afee47a"/>
-                    </REFOBJ>
-                  </LINK>
-                  <LINK relation="Invoked">
-                    <REFOBJ>
-                      <ID name="onOptionsItemSelected" mc="Standard.Operation" uid="b5f0df99-3f4d-4c3f-b85a-5934f03a2ad5"/>
                     </REFOBJ>
                   </LINK>
                 </DEPENDENCIES>
@@ -611,11 +601,7 @@
                   <ATT name="Name"><![CDATA[r]]></ATT>
                   <ATT name="status">1970354901745664</ATT>
                 </ATTRIBUTES>
-                <DEPENDENCIES>
-                  <LINK relation="Base">
-                    <ID name="ShoppingListPad" mc="Standard.Class" uid="34c2a3e0-e5dc-48e0-94f3-66cf348f88c1"/>
-                  </LINK>
-                </DEPENDENCIES>
+                <DEPENDENCIES></DEPENDENCIES>
               </OBJECT>
               <OBJECT>
                 <ID name="r1" mc="Standard.BindableInstance" uid="aa5d4cfe-b70c-4e23-b0fc-9a4a4f03e8c2"/>
