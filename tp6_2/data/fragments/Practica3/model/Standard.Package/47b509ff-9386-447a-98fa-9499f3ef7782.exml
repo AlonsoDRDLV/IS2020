@@ -48,6 +48,7 @@
         <COMPID name="EditText" mc="Standard.Class" uid="73bea3aa-f9a9-4f24-958f-147b39138d25"/>
         <COMPID name="TextView" mc="Standard.Class" uid="bd31ad3e-5cba-4a29-88f2-c6a52b4ee824"/>
         <COMPID name="SendAbstraction" mc="Standard.Class" uid="120a6656-a80b-49c6-800b-6ed9ba7e2012"/>
+        <COMPID name="ListDetailsActivity" mc="Standard.Class" uid="eab29163-1dc0-4664-b50d-8d1ff125ccca"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="DiagramaClasesImpl" mc="Standard.ClassDiagram" uid="80c10178-03a2-4e4a-826a-e9680c75177d"/>
